@@ -1,0 +1,29 @@
+.foot {
+    background-color: aquamarine;
+    /* position: sticky; */
+    
+    margin-top: 20px;
+    height: 60px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 30px; 
+  }
+  
+  .profile {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .profile a{
+    color: rgb(228, 20, 20);
+    height: 20px;
+    font-weight: 700;
+    width: 20px;
+    border: 4px solid rgb(216, 198, 198);
+    padding: 5px;
+    border-radius: 50%;
+    background-color: rgb(16, 26, 26);
+  }
+  

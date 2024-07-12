@@ -1,0 +1,12 @@
+.single{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+}
+    .content{
+        flex:5
+    }
+    .menu{
+        flex: 2;
+    }
